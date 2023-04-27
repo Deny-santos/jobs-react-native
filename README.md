@@ -1,15 +1,5 @@
-# Expo Router Example
+### fist applications with reactive
 
-Use [`expo-router`](https://expo.github.io/router) to build native navigation using files in the `app/` directory.
-
-## 🚀 How to use
-
-```sh
-npx create-react-native-app -t with-router
-```
-
-## 📝 Notes
-
-- [Expo Router: Docs](https://expo.github.io/router)
-- [Expo Router: Repo](https://github.com/expo/router)
-- [Request for Comments](https://github.com/expo/router/discussions/1)
+[v] look the dependencies
+[v] download the expo go in your cellphone or use the simulation
+[v] if have problems to run this application in your cellphone, type: npm i -g expo-cli and then expo-cli start --tunnel
